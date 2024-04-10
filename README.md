@@ -77,5 +77,5 @@ In addition to private APIs used by Monkey, Ape also uses many new private APIs.
 
 ## Contact
 
-* Yang Li (liyang14thu@gmail.com)
 * Hongyi Wang (hongyi-w21@mails.tsinghua.edu.cn)
+* Yang Li (liyang14thu@gmail.com)
